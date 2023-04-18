@@ -10,3 +10,12 @@ names of cities
 8. birmingham
 9. shanghai
 10. ibadan
+<<<<<<< HEAD
+=======
+11. nairobi
+12. florida
+13. newyork
+14. capetown
+15. johannesburg
+
+>>>>>>> 9bd1338 (changes)
