@@ -1,0 +1,8 @@
+names of cities
+
+1. tokyo
+2. amstardam
+3. Paris
+4. monaco
+5. london
+6. lagos
