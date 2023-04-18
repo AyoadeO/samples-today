@@ -6,3 +6,7 @@ names of cities
 4. monaco
 5. london
 6. lagos
+7. benin
+8. birmingham
+9. shanghai
+10. ibadan
